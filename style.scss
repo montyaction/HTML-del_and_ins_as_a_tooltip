@@ -68,6 +68,10 @@ ins {
 
 // not really required, just for fading the green in first time
 @keyframes fadeInIns {
-    from { background: transparent;}
-    to { background: #6db723;}
+    from {
+        background: transparent;
+    }
+    to {
+        background: #6db723;
+    }
 }
