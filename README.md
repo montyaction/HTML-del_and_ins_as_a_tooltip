@@ -32,5 +32,4 @@ After Hover
 Before Hover
 ![](./design/screencapture-127-0-0-1-5500-index-html-2022-07-02-22_24_39__Active.png)
 
-video
-![](./design/HTML-del-ins-with-CSS-and-TOOLTIP.webm)
+![Demo Video](./design/HTML-del-ins-with-CSS-and-TOOLTIP.webm)
