@@ -43,8 +43,7 @@ Before Hover
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML
 - Ins Tag
 - Del Tag
 - Hover Effect
